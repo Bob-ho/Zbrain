@@ -1,0 +1,8 @@
+Item name: image/sound filename you have renamed it to, or method/function/class where the code is found.
+o License type: (Public Domain / CC-BY / CC0 / GPL / MIT / Apache / BSD)
+o Author / Attribution: (name of author)
+o Source Website: (original website of the content, as per the author’s wishes)
+
+correctAnswer.mp3/ Standard License/ Finnolia Productions Inc/ https://www.soundeffectsplus.com/product/correct-answer-double-01/
+wrongAnswer.mp3/ Standard License/ Finnolia Productions Inc/ https://www.soundeffectsplus.com/product/wrong-answer-buzzer-05/
+congraduationSound.mp3/ Standard License/ Finnolia Productions Inc/ https://www.soundeffectsplus.com/https://www.soundeffectsplus.com/product/correct-answer-bell-gliss-01/

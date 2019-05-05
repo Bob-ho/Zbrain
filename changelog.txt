@@ -1,0 +1,82 @@
+Week4 [25-31/MAR]
+    [Thursday 28-MAR-2019] 
+        - Insert the readme.txt
+        - Create all the folder neccesary for the project
+        - Create the index.html to run the app
+    [Sunday 31-MAR-2019]
+        - Watching the video "Week 4 Make a Game"
+        - Create Welcome page
+        - Wrap the entire page using div and set the background color
+        - Create the app logo name that hold in the div
+        - Create the game data for different game level
+        - when the user clicks to the play button, it will nagigate to the game Level 
+Week5 [2-7/APR]
+    [Monday 2-APR-2019]
+        - Create a botton for Memory match game that show the game board with responsive format
+        - get data when the button is clicked.
+    [Thursday 4-APR-2019]
+        - When the user click to the play button, it will navigate to the User Level Page.
+        - Create the Game Level Page gameLevelPage.js
+        - Create the function to display the game level
+        - create the general game level data for each level.
+        - Assing the level text content to the box
+        - Create the draft memory game
+Week6 [8 - 14/APR]
+    [Saturday 14-APR-2019]
+        - Update the game level, the previously does work properly.
+        - Change the game level css to make it look good (Make it to the center, change the background color and color)
+        - Assign the button level handler.
+        - Connect the gamelevel 1 when the user click 
+        - Reorganise all the file that easy to manage.
+        - When the play button click, make the return button element, assign onclick
+        - Make the if-else statement to assign the game level
+        - Create order number game in level three
+        - Assign the data to the gameData.js 
+Week7 [16 - 21/APR]
+    [Tuesday 16-APR-2019]
+        - on the menu, create Heading logo, assign the text menu, assign to wrapper
+        - Order Number Game Level 3
+            - Create order number game and make the link in the index.html
+            - Create the variable numberOfButtons and maxNumber
+            - Generate the random number in the range from to maxNumber
+            - Create a loop that generate through the number of buttons 
+            - Display all the button on the screen.
+            - Assing the event to the button
+            - Change the background color when the user already have clicked on the button
+            - Disable the button so that it will not able to click again.
+            - Acceding order array 
+            - Create the if-else statement to compare if the user clicked is corrected or not
+            - Create the pop-up window if the user clicked the wrong button.
+            - Copy the current array number to the soft array number.
+            - Add animation when the button is corrected clicked
+            - Make the unique (undupplicated) origional list
+    Wednesday 17-APR-2019]
+        - Create the finsh game page
+Trimester Break [22-28/APR]
+    [Monday 22-APR-2019]
+        - Add the congraduation sound when the user finish the game
+        - Research how to create the timer.
+Week8 [29APR - 5MAY]
+    [FRriday 3-5-2019]
+        - Create the game level 4 namely Memory game different version
+        - Update the memory match to specify the requirement
+        - Create the css namely "memoryGame"
+        - Clear the sceen
+        - Create the wrapper to wrap the entire the game
+        - Create the data for this memory game in the data file
+        - Modify the order game data in the data file
+        - Link the game level to each game with the data
+        - Create the checkGame function to detect the type of game. Then it will pass the data
+        - Passing data to the order game number
+    [Saturday 4-5-2019]
+        - Update the number of stars for the game base on user performance.
+        - Create the link from the completed game to the home page.
+        - Create unlock Game Level as the global variable.The purpose of this variable is to identify the next unlock game.
+        - Increase to the next level when the user already completed the current level.
+        - Add the key symbol to the menu game. It is also disable unlock game level when this game is not completed.
+        - Remember the stars (performance) of the users by create the variable arrayStars. It will show in the menu.
+
+    [Sunday 5-5-2019]
+        - Create the progess bar to make the game more intersting. The timer is set for each game that depend on the difficulty of the game.
+        - Update the completed game with different text depend on the user completed the game
+
